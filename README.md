@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text= song GitHub)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=song's_GitHub)
 
 ![Mandarinnn2's github stats](https://github-readme-stats.vercel.app/api?username=mandarinnn2&show_icons=true&theme=graywhite)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mandarinnn2)](https://solved.ac/mandarinnn2)
