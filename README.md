@@ -18,21 +18,21 @@
 <div align="center">
 <h3 align="center">Web Framework 🖥️</h3>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-</div>
+</div><br><br>
 
 <div align="center">
 <h3 align="center">DB 💼</h3>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-</div>
+</div><br><br>
 
 
 <div align="center">
 <h3 align="center">Cloud Service ☁️</h3>
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
-</div>
+</div><br><br>
 
 
 <div align="center">
@@ -42,20 +42,20 @@
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white">
 <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-</div>
+</div><br><br>
 
 
 <div align="center">
 <h3 align="center">Data Analysis/ Preprocessing 📊</h3>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-</div>
+</div><br><br>
 
 
 <div align="center">
 <h3 align="center">Image Processing 🖼️</h3>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
-</div>
+</div><br><br>
 
 
 <div align="center">
@@ -64,7 +64,7 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyterb&logoColor=white">
-</div>
+</div><br><br>
 
 
 <!--
