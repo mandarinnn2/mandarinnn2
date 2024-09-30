@@ -6,14 +6,13 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mandarinnn2)](https://solved.ac/mandarinnn2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandarinnn2&layout=compact&theme=graywhite)
 
-<h3 align="center">Programming Language 🗣️</h3>
-<p align="center">
+<p align="center">Programming Language 🗣️</p>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-</p>
+
 
 <div align="center">
 <h3 align="center">ML/DL Lib 🤖</h3>
