@@ -2,8 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000001&width=435&lines=Hi!+I'm+Data+Analyst+;I'll+be+Data+Master+%F0%9F%92%AB)](https://git.io/typing-svg)
 
-![Mandarinnn2's github stats](https://github-readme-stats.vercel.app/api?username=mandarinnn2&show_icons=true&theme=graywhite)
+![contribs&count_private=true](https://github-readme-stats.vercel.app/api?username=mandarinnn2&count_private=true&theme=graywhite)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandarinnn2&layout=compact&theme=graywhite)
+
 <br>
 <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mandarinnn2)](https://solved.ac/mandarinnn2)-->
 [![Solved.ac
