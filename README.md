@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=yeonsong's_GitHub💫)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000001&width=435&lines=Hi!+I'm+Data+Analyst+;I'll+be+Data+Master+%F0%9F%92%AB)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000001&width=435&lines=Hi!+I'm+Data+Analyst+;I'll+be+Data+Master+%F0%9F%92%AB)](https://git.io/typing-svg)-->
 
 ![contribs&count_private=true](https://github-readme-stats.vercel.app/api?username=mandarinnn2&count_private=true&theme=graywhite)
 
